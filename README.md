@@ -37,7 +37,7 @@ reviewed.docx with comments
 summary.json with issue breakdown
 
 
-### **RAG Simulation Explanation**
+### RAG Simulation Explanation
 ```markdown
 ## 🧠 RAG Simulation
 Reference documents in `reference_docs/` are used to simulate retrieval-based validation. The app checks uploaded documents against these for compliance.
