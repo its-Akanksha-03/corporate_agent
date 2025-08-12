@@ -38,7 +38,7 @@ summary.json with issue breakdown
 
 
 ### RAG Simulation Explanation
-```markdown
+
 ## 🧠 RAG Simulation
 Reference documents in `reference_docs/` are used to simulate retrieval-based validation. The app checks uploaded documents against these for compliance.
 
@@ -47,7 +47,6 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-### 8. **Author Info**
-```markdown
+### Author Info
 ## 📝 Author
 Akanksha 
